@@ -42,7 +42,7 @@ In the education section, I detail my academic background, degrees, certificatio
 
 ## Contact Me
 
-Feel free to reach out to me via email at [your@email.com](mailto:fazal.khan@btech.christuniversity.in) or connect with me on [LinkedIn](https://www.linkedin.com/in/itsfazalkhan) for collaboration opportunities, inquiries, or just to say hello!
+Feel free to reach out to me via email at [itsfazalkhan9@gmail.com](mailto:itsfazalkhan9@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/itsfazalkhan) for collaboration opportunities, inquiries, or just to say hello!
 
 ## License
 
