@@ -1,21 +1,24 @@
 import React from "react";
-import { Typewriter } from 'react-simple-typewriter';
+import { Typewriter } from "react-simple-typewriter";
 
 function Type() {
   return (
-    <Typewriter
-      options={{
-        strings: [
+    <span>
+      <Typewriter
+        words={[
+          "IoT Engineer",
           "Software Developer",
-          "Freelancer",
-          "MERN Stack Developer",
-          "Open Source Contributor",
-        ],
-        autoStart: true,
-        loop: true,
-        deleteSpeed: 50,
-      }}
-    />
+          "Data Analyst",
+          "Web Developer",
+        ]}
+        loop={true}
+        cursor
+        cursorStyle="|"
+        typeSpeed={70}
+        deleteSpeed={50}
+        delaySpeed={1000}
+      />
+    </span>
   );
 }
 
